@@ -9,3 +9,4 @@ Will return the corresponding information for plant 5 in the dictionary.
 
 Data from the microservice will be returned via socket to the client socket located within the main program. In the testMicro.py file, this variable is simply called 'data'. In this file, the data is printed to the terminal. However, it would be easy to save this variable and use it as necessary within the full program. 
 
+![Screenshot](MicroserviceUML.png)
